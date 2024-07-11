@@ -16,3 +16,8 @@ int main()
    }
 }
 
+ // output
+// Before swapping
+// a=4,b=5
+// After swapping
+// a=5,b=4
